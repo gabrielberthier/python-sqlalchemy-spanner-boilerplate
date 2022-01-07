@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "description": "Calorias(kcal)"
+  },
+  {
+    "id": 2,
+    "description": "Gorduras Saturadas(g)"
+  },
+  {
+    "id": 3,
+    "description": "Carboidratos(g)"
+  },
+  {
+    "id": 4,
+    "description": "Sódio(mg)"
+  },
+  {
+    "id": 5,
+    "description": "Colesterol(g)"
+  },
+  {
+    "id": 6,
+    "description": "Açucar(g)"
+  },
+  {
+    "id": 7,
+    "description": "Gordura(g)"
+  },
+  {
+    "id": 8,
+    "description": "Gordura Trans(g)"
+  },
+  {
+    "id": 9,
+    "description": "Fibra(g)"
+  },
+  {
+    "id": 10,
+    "description": "Proteína(g)"
+  },
+  {
+    "id": 11,
+    "description": "Porção(g)"
+  }
+]
